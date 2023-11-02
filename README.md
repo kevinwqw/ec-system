@@ -1,2 +1,1 @@
-# ec-system
-Electricity collection system
+# EC-SYSTEM
